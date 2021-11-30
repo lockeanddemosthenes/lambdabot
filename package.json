@@ -1,0 +1,11 @@
+{
+    "name": "Lambdadelta",
+    "version": "1.0.0",
+    "description": "My first Discord bot. help",
+    "main": "bot.js",
+    "author": "Locrius#9567",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "winston": "^3.3.3"
+    }
+}
